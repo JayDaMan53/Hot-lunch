@@ -1,4 +1,4 @@
-const list1 = ['item1', 'item2', 'item3'];
+const list1 = ['so pog', 'item2', 'item3'];
 const list2 = ['itemA', 'itemB', 'itemC'];
 const list3 = ['itemX', 'itemY', 'itemZ'];
 
